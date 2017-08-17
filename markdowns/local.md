@@ -1,4 +1,4 @@
-The MediaStream API was designed to easy access the media streams from local cameras and microphones.
+Theeeeeeeeeeeee MediaStream API was designed to easy access the media streams from local cameras and microphones.
 
 The API has a few key points
 - A real-time media stream is represented by a stream object in the form of video or audio
